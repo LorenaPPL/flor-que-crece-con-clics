@@ -1,6 +1,3 @@
-# flor-que-crece-con-clics
-Proyecto final para Code in Place 2025: una flor interactiva que crece con clics.
-
 #  Flower That Grows with Clicks
 
 This is my final project for **Code in Place 2025**, a creative and interactive program made with Python using the `graphics` library. Every time you click on the canvas, a new petal appears — and the flower slowly grows!
