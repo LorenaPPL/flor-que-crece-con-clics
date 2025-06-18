@@ -18,7 +18,7 @@ If you want to run this program on your computer:
 
 1. Make sure you have Python 3 installed.
 2. Clone or download this repository.
-3. Open the file (e.g., `flower.py`) in your IDE or terminal.
+3. Open the file (`flower.py`) in your IDE or terminal.
 4. Run it:
    ```bash
    python flower.py
